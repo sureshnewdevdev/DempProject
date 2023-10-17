@@ -1,0 +1,15 @@
+C:\demoforRadical\DempProject\DemoSampleConsole\DemoSampleConsole\bin\Debug\net6.0\DemoSampleConsole.exe
+C:\demoforRadical\DempProject\DemoSampleConsole\DemoSampleConsole\bin\Debug\net6.0\DemoSampleConsole.dll.config
+C:\demoforRadical\DempProject\DemoSampleConsole\DemoSampleConsole\bin\Debug\net6.0\DemoSampleConsole.deps.json
+C:\demoforRadical\DempProject\DemoSampleConsole\DemoSampleConsole\bin\Debug\net6.0\DemoSampleConsole.runtimeconfig.json
+C:\demoforRadical\DempProject\DemoSampleConsole\DemoSampleConsole\bin\Debug\net6.0\DemoSampleConsole.dll
+C:\demoforRadical\DempProject\DemoSampleConsole\DemoSampleConsole\bin\Debug\net6.0\DemoSampleConsole.pdb
+C:\demoforRadical\DempProject\DemoSampleConsole\DemoSampleConsole\obj\Debug\net6.0\DemoSampleConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\demoforRadical\DempProject\DemoSampleConsole\DemoSampleConsole\obj\Debug\net6.0\DemoSampleConsole.AssemblyInfoInputs.cache
+C:\demoforRadical\DempProject\DemoSampleConsole\DemoSampleConsole\obj\Debug\net6.0\DemoSampleConsole.AssemblyInfo.cs
+C:\demoforRadical\DempProject\DemoSampleConsole\DemoSampleConsole\obj\Debug\net6.0\DemoSampleConsole.csproj.CoreCompileInputs.cache
+C:\demoforRadical\DempProject\DemoSampleConsole\DemoSampleConsole\obj\Debug\net6.0\DemoSampleConsole.dll
+C:\demoforRadical\DempProject\DemoSampleConsole\DemoSampleConsole\obj\Debug\net6.0\refint\DemoSampleConsole.dll
+C:\demoforRadical\DempProject\DemoSampleConsole\DemoSampleConsole\obj\Debug\net6.0\DemoSampleConsole.pdb
+C:\demoforRadical\DempProject\DemoSampleConsole\DemoSampleConsole\obj\Debug\net6.0\DemoSampleConsole.genruntimeconfig.cache
+C:\demoforRadical\DempProject\DemoSampleConsole\DemoSampleConsole\obj\Debug\net6.0\ref\DemoSampleConsole.dll

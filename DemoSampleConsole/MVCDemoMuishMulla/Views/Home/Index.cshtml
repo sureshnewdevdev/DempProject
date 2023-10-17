@@ -1,0 +1,15 @@
+﻿@{
+
+    ViewData["Title"] = "Home Page";
+}
+
+<marquee>
+    <div class="text-center">
+        <h1 class="display-4">Welcome</h1>
+        @for (int i = 0; i < 9; i++)
+        {
+            <h1>Welcome Muish @DateTime.Now</h1>
+            Thread.Sleep(1000);
+        }
+    </div>
+</marquee>
